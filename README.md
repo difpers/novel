@@ -1,1 +1,1 @@
-# novel
+# novel - study project
